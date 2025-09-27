@@ -3,11 +3,12 @@ Our official ground porcessing engine.
 
 This python project was made in vs code and is tied to a virtual environment. To access the environment:
 
-libraries:
-pip install serial
-pip install matplotlib
-see in Sloth.py
+To install the required libraries:
+```bash
+pip install -r requirements.txt
+```
 
+On linux you might need to install tkinter (see your distribution's docs)
 
 On windows:
 - Enable access in terminal by:
